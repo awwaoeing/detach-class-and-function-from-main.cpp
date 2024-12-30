@@ -1,0 +1,1 @@
+# detach-class-and-function-from-main.cpp
